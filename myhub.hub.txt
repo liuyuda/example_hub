@@ -1,0 +1,5 @@
+hub hub
+shortLabel myhub
+longLabel myhub
+genomesFile myhub.genomes.txt
+email liu766@wisc.edu

@@ -1,0 +1,107 @@
+track ERYflH3K27acr1chr11bw
+bigDataUrl ERYflH3K27acr1chr11bw.bigWig
+shortLabel ERYflH3K27acr1chr11bw
+longLabel ERYflH3K27acr1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track ERYflH3K4me3r1chr11ctrlbw
+bigDataUrl ERYflH3K4me3r1chr11ctrlbw.bigWig
+shortLabel ERYflH3K4me3r1chr11ctrlbw
+longLabel ERYflH3K4me3r1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K4me1r1chr11ctrlbw
+bigDataUrl CMPH3K4me1r1chr11ctrlbw.bigWig
+shortLabel CMPH3K4me1r1chr11ctrlbw
+longLabel CMPH3K4me1r1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track ERYflH3K4me3r1chr11bw
+bigDataUrl ERYflH3K4me3r1chr11bw.bigWig
+shortLabel ERYflH3K4me3r1chr11bw
+longLabel ERYflH3K4me3r1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track ERYflH3K27acr1chr11ctrlbw
+bigDataUrl ERYflH3K27acr1chr11ctrlbw.bigWig
+shortLabel ERYflH3K27acr1chr11ctrlbw
+longLabel ERYflH3K27acr1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K4me3r1chr11bw
+bigDataUrl CMPH3K4me3r1chr11bw.bigWig
+shortLabel CMPH3K4me3r1chr11bw
+longLabel CMPH3K4me3r1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track ERYflH3K4me1r1chr11bw
+bigDataUrl ERYflH3K4me1r1chr11bw.bigWig
+shortLabel ERYflH3K4me1r1chr11bw
+longLabel ERYflH3K4me1r1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track ERYflH3K4me1r1chr11ctrlbw
+bigDataUrl ERYflH3K4me1r1chr11ctrlbw.bigWig
+shortLabel ERYflH3K4me1r1chr11ctrlbw
+longLabel ERYflH3K4me1r1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K4me3r1chr11ctrlbw
+bigDataUrl CMPH3K4me3r1chr11ctrlbw.bigWig
+shortLabel CMPH3K4me3r1chr11ctrlbw
+longLabel CMPH3K4me3r1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K27acr1chr11bw
+bigDataUrl CMPH3K27acr1chr11bw.bigWig
+shortLabel CMPH3K27acr1chr11bw
+longLabel CMPH3K27acr1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K4me1r1chr11bw
+bigDataUrl CMPH3K4me1r1chr11bw.bigWig
+shortLabel CMPH3K4me1r1chr11bw
+longLabel CMPH3K4me1r1chr11bw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track CMPH3K27acr1chr11ctrlbw
+bigDataUrl CMPH3K27acr1chr11ctrlbw.bigWig
+shortLabel CMPH3K27acr1chr11ctrlbw
+longLabel CMPH3K27acr1chr11ctrlbw
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
